@@ -3,3 +3,4 @@ You can see project details in Jupyter Notebook.
 ![image](https://github.com/XiongWT1024/2024/assets/157451162/c7377312-260f-46e3-a0c7-9fa16ce547dd)
 
 ![](https://komarev.com/ghpvc/?username=XiongWT1024)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
