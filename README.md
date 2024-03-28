@@ -4,5 +4,5 @@ You can see project details in Jupyter Notebook.
 
 ![](https://komarev.com/ghpvc/?username=XiongWT1024&color=green)
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=GOvDnFRj8n5_HuPZK6pzUV22mLm-E9D3v1fWFImhP1E"></script>
+
 
